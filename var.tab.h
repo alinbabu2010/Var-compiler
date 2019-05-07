@@ -52,15 +52,19 @@ extern int yydebug;
     IF = 262,
     ELSE = 263,
     WHILE = 264,
-    DO = 265,
-    FOR = 266,
-    ptable = 267,
-    and = 268,
-    or = 269,
-    eq = 270,
-    ne = 271,
-    ge = 272,
-    le = 273
+    ptable = 265,
+    SQRT = 266,
+    FACTORIAL = 267,
+    CEL_TO_FAH = 268,
+    FAH_TO_CEL = 269,
+    M_TO_KM = 270,
+    KM_TO_M = 271,
+    and = 272,
+    or = 273,
+    eq = 274,
+    ne = 275,
+    ge = 276,
+    le = 277
   };
 #endif
 
@@ -69,12 +73,12 @@ extern int yydebug;
 
 union YYSTYPE
 {
-#line 28 "var.y" /* yacc.c:1909  */
+#line 33 "var.y" /* yacc.c:1909  */
 
 int no;
 char var[10];
 
-#line 78 "var.tab.h" /* yacc.c:1909  */
+#line 82 "var.tab.h" /* yacc.c:1909  */
 };
 
 typedef union YYSTYPE YYSTYPE;

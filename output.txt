@@ -1,2273 +1,28 @@
 t1 := 10;
  a := t1;
 
-t1 := 25;
- b := t1;
+if nz t1; 
+t2 := 0 
+Print t2t1 := 0;
+ g := t1;
 
-t1 := 70;
- c := t1;
+if nz t1; 
+t2 := 10 
+Print t2t3 := 3628800;
+ b := t3;
 
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-......if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-......if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-......if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-...................t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 30;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 70;
-c := t4;
-_LABEL : else;
-t5 := 10;
-c := t5;
-
-;t1 := 30;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 18;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 17;
-print t2;
-_LABEL : else;
-t3 := 17;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 17;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := -3;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 37;
-c := t4;
-_LABEL : else;
-t5 := -23;
-c := t5;
-
-;t1 := 17;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 16;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 16;
- k := t1;
-
-t1 := 0;
-print t1;
-
-t1 := 17;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
-print t1;
-
-t1 := 2;
- j := t1;
-
-t1 := 1;
- j := t1;
-
-t1 := 10;
- k := t1;
-
-t1 := 9;
- k := t1;
-
-t1 := -8;
-print t1;
-
-t1 := 9;
-print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-.......t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-.......t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-.......t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-.......t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-.......t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
-
-if z t1 goto _LABEL;
-t2 := 15;
-b := t2;
-_LABEL : else;
-t3 := 20;
-b := t3;
-
-t1 := 15;
-print t1;
-
-if z t1 goto _MAINELSE; 
-t2 := 50;
-c := t2;
-
- _MAINELSE : else;
- if z t3 goto _LABEL;
-t4 := 90;
-c := t4;
-_LABEL : else;
-t5 := 30;
-c := t5;
-
-;t1 := 50;
+t1 := 3628800;
 print t1;
-
-t1 := 2;
- j := t1;
 
-t1 := 1;
- j := t1;
+t5 := 91;
+ f := t5;
 
-t1 := 10;
- k := t1;
+t5 := 32;
+ c := t5;
 
-t1 := 9;
- k := t1;
-
-t1 := -8;
+t1 := 91;
 print t1;
 
-t1 := 9;
+t1 := 32;
 print t1;
-
-t1 := 10;
- a := t1;
-
-t1 := 25;
- b := t1;
-
-t1 := 70;
- c := t1;
-
-t1 := 0;
- i := t1;
-
-t1 := 1;
- i := t1;
-
-if z t1 goto _LABEL;
-t2 := 10;
-print t2;
-_LABEL : else;
-t3 := 1;
-print t3;
 
-.......
